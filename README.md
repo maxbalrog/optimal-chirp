@@ -18,4 +18,5 @@ Folder **data** - used simulation and analytic data (obtained with **generate_si
 Folder **Pearcey** - numerical calculation of Pearcey 2nd derivatives which were used in Taylor correction procedure.
 
 This repository was created for the following article\
-[1] - Valialshchikov M., Seipt D., Kharin V.Y., Rykovanov S.G.
+[1] - Valialshchikov M., Seipt D., Kharin V.Y., Rykovanov S.G. Towards high photon density for Compton Scattering by spectral
+chirp. Phys. Rev. A 106 L031501 (2022).
