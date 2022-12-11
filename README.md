@@ -19,4 +19,4 @@ Folder **Pearcey** - numerical calculation of Pearcey 2nd derivatives which were
 
 This repository was created for the following article\
 [1] - Valialshchikov M., Seipt D., Kharin V.Y., Rykovanov S.G. Towards high photon density for Compton Scattering by spectral
-chirp. Phys. Rev. A 106 L031501 (2022).
+chirp. Phys. Rev. A 106 L031501 (2022). arXiv: https://arxiv.org/abs/2204.12245
